@@ -7,4 +7,5 @@ target 'Marvel-App' do
 
   # Pods for Marvel-App
 	pod 'Alamofire'
+    pod 'SwiftyJSON', '~> 4.2'
 end
